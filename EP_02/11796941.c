@@ -1,11 +1,11 @@
 /*********************************************************************/
 /**   ACH2023 - Algoritmos e Estruturas de Dados I                  **/
 /**   EACH-USP - Seugndo Semestre de 2020                           **/
-/**   <2020294> - Prof. Luciano Antonio Digiampietri                **/
+/**   <-------> - Prof. Luciano Antonio Digiampietri                **/
 /**                                                                 **/
 /**   EP2 - Fila Preferencial                                       **/
 /**                                                                 **/
-/**   <Thais de Souza Rodrigues>                   <11796941>       **/
+/**   <Thais de Souza Rodrigues>                   <-------->       **/
 /**                                                                 **/
 /*********************************************************************/
 
